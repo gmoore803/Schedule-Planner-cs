@@ -1,7 +1,7 @@
 # Schedule-Planner-cs
-Schedule planner project from python class
-Grayson Moore 
-CS230
+## Schedule Planner Program
+**Grayson Moore 
+CS230**
 
 o	The beginning portion of my code prints the text welcoming the user to my schedule planner simulation
 o	I used the print function to shape the welcome page of my project.
