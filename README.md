@@ -1,4 +1,4 @@
-# Schedule-Planner-cs
+# Schedule-Planner-cs230
 ## Schedule Planner Program
 **Grayson Moore 
 CS230**
